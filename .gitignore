@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+VirtualEnvironment.py
 # C extensions
 *.so
 
